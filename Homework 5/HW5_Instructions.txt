@@ -1,0 +1,12 @@
+//Instructions for Homework 5: Tree Traversals
+//Created by Chandler Ford for CSS 342 B
+
+1. When you start the program everything will be displayed right away.
+
+     a) The left-unbalanced tree sorts are displayed first (pre-order, post-order, in-order)
+
+     b) The right-unbalanced tree sorts are displayed second (pre-order, post-order, in-order)
+
+     c) The symmetrical tree sorts are displayed last (pre-order, post-order, in-order)
+
+

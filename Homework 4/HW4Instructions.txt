@@ -1,0 +1,17 @@
+//Instructions for Homework 4: Set
+//Created by Chandler Ford for CSS 342 B
+
+1. When you start the program everything will be displayed right away.
+
+   a) The LinkedList with at least 10 items is displayed
+
+   b) An explanation of demonstration of Set comes after that, i.e. that a for-loop fills the Set 
+      with unique values (years from the 1980s)
+
+   c) A key that already exists attempts to be inserted, which brings up a message saying that it
+      can't be done. Also shows counter of unique key value before and after attempted insertion
+
+   d) All the keys are printed out with their respective counters
+
+   e) More values are added to the Set, and then the top 3 keys in the structure are displayed (those
+      with the highest counters)

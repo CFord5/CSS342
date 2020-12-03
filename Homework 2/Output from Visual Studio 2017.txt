@@ -1,0 +1,51 @@
+HOMEWORK 2: SEARCHING AND SORTING
+Created by Chandler Ford for CSS 342 B.
+-----------------------------------------------------
+
+
+UNSORTED LIST:
+The city of Seattle has a population of 704352
+The city of Chicago has a population of 2704958
+The city of San Diego has a population of 1406630
+The city of Phoenix has a population of 1615017
+The city of Houston has a population of 2303482
+The city of Philadelphia has a population of 1567872
+The city of New York has a population of 8537673
+The city of Dallas has a population of 1317929
+The city of San Antonio has a population of 1492510
+The city of San Jose has a population of 1025350
+
+ASCENDING SORT:
+The city of Seattle has a population of 704352
+The city of San Jose has a population of 1025350
+The city of Dallas has a population of 1317929
+The city of San Diego has a population of 1406630
+The city of San Antonio has a population of 1492510
+The city of Philadelphia has a population of 1567872
+The city of Phoenix has a population of 1615017
+The city of Houston has a population of 2303482
+The city of Chicago has a population of 2704958
+The city of New York has a population of 8537673
+
+DESCENDING SORT:
+The city of New York has a population of 8537673
+The city of Chicago has a population of 2704958
+The city of Houston has a population of 2303482
+The city of Phoenix has a population of 1615017
+The city of Philadelphia has a population of 1567872
+The city of San Antonio has a population of 1492510
+The city of San Diego has a population of 1406630
+The city of Dallas has a population of 1317929
+The city of San Jose has a population of 1025350
+The city of Seattle has a population of 704352
+
+BASIC SEARCH FUNCTION:
+Please enter a city name from above: Seattle
+The city of Seattle has a population of 704352
+
+BIG-O ANALYSIS:
+Ascending sort has a Big-O of O(n^2) due to two levels of nested for-loops.
+Descending sort has a Big-O of O(n^2) due to two levels of nested for-loops.
+The search function has a Big-O of O(n) due to its single while loop.
+
+Press any key to continue . . .

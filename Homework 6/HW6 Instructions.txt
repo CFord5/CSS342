@@ -1,0 +1,12 @@
+//Instructions for Homework 6: Ski School
+//Created by Chandler Ford for CSS 342 B
+
+1. When you start the program everything will be displayed right away.
+
+     a) Part 1 prints out the three instructor and nineteen student names
+
+     b) Part 2 removes the third instructor (Nancy) and prints the remaining 
+        two instructors with redistributed students.
+
+     c) Part 3 shows what happens when the user attempts to add students to an
+        instructor that has been removed or doesn't exist.

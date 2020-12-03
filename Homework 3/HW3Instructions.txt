@@ -1,0 +1,13 @@
+//Instructions for Homework 3: Suggestions
+//Created by Chandler Ford for CSS 342 B
+
+1. When you start the program a list of cities will be displayed. Type in a city name to search it
+   and see the population. Three similarly sized cities will also be displayed.
+
+2. After seeing the results of above, you will be prompted to type in a city name that is not on the
+   list, such as Seattle, to demonstrate how to program responds.
+
+3. After seeing the results of above, you will be notified that another object has been added to the
+   vector. Search any term, such as the newly added city, to see the output.
+
+4. The Big-O notation is listed near the bottom of the program. Press a key to exit.
